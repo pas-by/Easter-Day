@@ -1,2 +1,2 @@
 # Easter-Day
-computer the date of Easter Day. reference: Practical Astronomy With Your Calculator
+compute the date of Easter Day. reference: Practical Astronomy With Your Calculator
